@@ -1,7 +1,5 @@
 - 👋 Hi, I’m sweta pandey
 - 👀 I’m interested in full stack dev and research
-- 🌱 I’m currently learning backend 
-- 💞️ I’m looking to collaborate on projects development
 - 📫 How to reach me .linkedin ,sweta893pandey@gmail.com
 - 😄 Pronouns: .she /her
   
