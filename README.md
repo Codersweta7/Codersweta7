@@ -1,5 +1,6 @@
 # 💫 About Me:
-Open source contribution<br>I am a second year , Btech CS student.
+I am a second year , Btech CS student
+..working on open source contribution
 
 
 # 💻 Tech Stack:
