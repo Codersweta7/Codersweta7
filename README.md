@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a second year , Btech CS student
 ..working on open source contribution
+![image](https://github.com/user-attachments/assets/5c48aa79-71d6-49de-bf60-6965c20afd67)
 
 
 # 💻 Tech Stack:
