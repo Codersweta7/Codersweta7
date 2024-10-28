@@ -32,7 +32,6 @@ I am a second year , Btech CS student
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codersweta7&show_icons=true&locale=en&layout=compact" alt="codersweta7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codersweta7&show_icons=true&locale=en" alt="codersweta7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codersweta7&" alt="codersweta7" /></p>
 
