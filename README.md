@@ -11,7 +11,9 @@ I am a second year , Btech CS student
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-##Hacktoberfest badges .
+
+## Hacktoberfest badges (2024)
+  
 ![image](https://github.com/user-attachments/assets/5c48aa79-71d6-49de-bf60-6965c20afd67) 
 
 ![image](https://github.com/user-attachments/assets/2f9e4bea-c449-49b0-a315-a2c7db2272b0)
