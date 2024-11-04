@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a second year , Btech CSE student
-..working on open source contribution currently working on backend development 
+I am a second year , Btech CSE student working on open source contribution dvelving into deeper concepts of backend 
 
 ## Hacktoberfest badges (2024)
   
