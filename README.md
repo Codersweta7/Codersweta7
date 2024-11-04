@@ -47,9 +47,7 @@ I am a second year , Btech CSE student working on open source contribution dvelv
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-Pathsphere
-CodeIt
+
 
 
 
