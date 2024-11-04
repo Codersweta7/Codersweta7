@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year , Btech CS student
+I am a second year , Btech CSE student
 ..working on open source contribution currently working on backend development 
 
 ## Hacktoberfest badges (2024)
